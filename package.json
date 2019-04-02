@@ -1,0 +1,23 @@
+{
+  "name": "student-api",
+  "version": "1.0.0",
+  "description": "Basic RESTful API with NodeJs, Express, MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "swagger"
+  ],
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "js-yaml": "^3.3.0",
+    "mongoose": "^5.4.20",
+    "swagger-tools": "0.10.1"
+  }
+}
