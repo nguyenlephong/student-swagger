@@ -11,7 +11,7 @@ Clone this project
 ```
 git clone https://github.com/tainguyennls/Student-RESRful-API.git
 ```
-__Step 3: __
+__Step 3:__
 Run this command to download libraries from internet to local machine.
 
 ```
