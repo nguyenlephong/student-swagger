@@ -7,6 +7,7 @@ tags:
 - name: "Student"
   description: ""
 schemes:
+- "https"
 - "http"
 paths:
   /students:

@@ -25,3 +25,8 @@ Run this command to start project.
 node server.js
 ```
 
+Test API at this host: 
+
+- Azure: https://ws-nodejs.azurewebsites.net
+- Heroku: https://ws-nodejs.herokuapp.com/
+
