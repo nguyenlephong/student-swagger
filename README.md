@@ -9,20 +9,14 @@ __Step 2:__
 Clone this project 
 
 ```
-git clone https://github.com/tainguyennls/rest-api-student.git
+git clone https://github.com/tainguyennls/student-swagger.git
 ```
+
 __Step 3:__
-Run this command to download libraries from internet to local machine.
-
-```
-npm start
-```
-
-__Step 4:__
 Run this command to start project.
 
 ```javascript
-node server.js
+node server
 ```
 
 Test API at this host: 
